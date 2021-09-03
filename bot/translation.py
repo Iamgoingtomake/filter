@@ -5,12 +5,15 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Hy ODIN, എന്റെ പേര് 𝙏𝙊𝙓𝙄𝙉! 
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+🤭 എന്നെ നിർമിച്ചിരിക്കുന്നത് 𝘼𝙨𝙜𝙖𝙧𝙙𝙞𝙖𝙣𝙨 𝘾𝙝𝙖𝙩𝙨 ഗ്രൂപ്പിലേക്ക് ആണ്.
+എന്തായാലും സ്റ്റാർട്ട് അടിച്ചതല്ലെ ഇനി ആ താഴെ കാണുന്ന നമ്മുടെ ഒഫീഷ്യൽ ചന്നെൽ കൂടി Subscribe ചെയ്തിട്ട് പൊക്കോ...🤣🤣
 
-For More Details Click Help Button Below..
-@CrazyBotsz
+
+
+
+@Hyetelegram
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +46,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Hyetelegram
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
